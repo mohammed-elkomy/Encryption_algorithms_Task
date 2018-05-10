@@ -1,87 +1,31 @@
-# Project Title
+# Encryption_algorithms_Task
 
-One Paragraph of project description goes here
+This is my personal assignment for cryptography task.
 
-## Getting Started
+## RSA
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Contains modest biginteger implementation using vectors as blocks of numbers, I tried multiplying numbers as repeated addition in logarithmic complexity(divide and conquer) of the number space :D 
+as well as modular exponentiation as repeated multiplcation with logarithmic complexity (divide and conquer), divion as binary search :D also as (divide and conquer).. that was fun :D .
 
-### Prerequisites
+I also implemented the extended GCD and modulo-inverse for establishing RSA communication.
 
-What things you need to install the software and how to install them
+## PlayFair
 
-```
-Give examples
-```
+Implemented as 2 indexed data structures for fast retrieval.
 
-### Installing
+## rail-fence cipher 
+Implemented efficiently by applying an index.
 
-A step by step series of examples that tell you have to get a development env running
+## Resources
 
-Say what the step will be
+* [blog post part 1](http://doctrina.org/How-RSA-Works-With-Examples.html)
+* [blog post part 2](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html)
+* [RSA - Maths - youtube](https://www.youtube.com/watch?v=EOhLZRwxaVo)
+* [RSA-wiki] (https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+* [Euler-Totient_Function-wiki] (https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+* [primality-test-miller-rabin](https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/)
+* [big int CF] (https://gist.github.com/ar-pa/957297fb3f88996ead11)
+* [PlayFair wiki](https://en.wikipedia.org/wiki/Playfair_cipher)
 
-```
-Give the example
-```
+* [Rail_fence wiki](https://en.wikipedia.org/wiki/Rail_fence_cipher)
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
