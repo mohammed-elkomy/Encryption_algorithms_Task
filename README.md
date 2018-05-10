@@ -7,7 +7,7 @@ This is my personal assignment for cryptography task.
 Contains modest biginteger implementation using vectors as blocks of numbers, I tried multiplying numbers as repeated addition in logarithmic complexity(divide and conquer) of the number space :D 
 as well as modular exponentiation as repeated multiplcation with logarithmic complexity (divide and conquer), divion as binary search :D also as (divide and conquer).. that was fun :D .
 
-I also implemented the extended GCD and modulo-inverse for establishing RSA communication.
+I also implemented the extended GCD and modulo-inverse for establishing RSA channel.
 
 ## PlayFair
 
