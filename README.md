@@ -21,10 +21,10 @@ Implemented efficiently by applying an index.
 * [blog post part 1](http://doctrina.org/How-RSA-Works-With-Examples.html)
 * [blog post part 2](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html)
 * [RSA - Maths - youtube](https://www.youtube.com/watch?v=EOhLZRwxaVo)
-* [RSA-wiki] (https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-* [Euler-Totient_Function-wiki] (https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+* [RSA-wiki](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+* [Euler-Totient_Function-wiki](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 * [primality-test-miller-rabin](https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/)
-* [big int CF] (https://gist.github.com/ar-pa/957297fb3f88996ead11)
+* [big int CF](https://gist.github.com/ar-pa/957297fb3f88996ead11)
 * [PlayFair wiki](https://en.wikipedia.org/wiki/Playfair_cipher)
 
 * [Rail_fence wiki](https://en.wikipedia.org/wiki/Rail_fence_cipher)
