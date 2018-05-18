@@ -22,7 +22,6 @@ _ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^`abcdefghijklmno
 
 Enter message
 mohammed alaa el kOmy 012XX
-mohammed alaa el kOmy 012XX
 =======================================================Plain Text=======================================================
 Text: mohammed alaa el kOmy 012XX
 Num: 205123075875681986345349980530590985105852103077517197
@@ -43,10 +42,48 @@ mohammed alaa el kOmy 012XX
 ## PlayFair
 
 Implemented as 2 indexed data structures for fast retrieval.
+```
+=======================================================Vocabulary=======================================================
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^`abcdefghijklmnopqrstuvwxyz{|}~_
 
+Enter Key
+Komy PLayFair
+==========================================================Key===========================================================
+Komy PLaFir!"#$%&'(
+)*+,-./0123456789:;
+<=>?@ABCDEGHIJMNOQR
+STUVWXYZ[\]^`bcdefg
+hjklnpqstuvwxz{|}~_
+Enter message
+Mohammed AlaA ElK0My 4516XX!!!
+=======================================================Plain Text=======================================================
+Mohammed AlaA ElK0My 4516XX!!!
+======================================================Cipher Text=======================================================
+=$sK(k&UW%?pPCi@hy7C P5627gp^P(w(w
+========================================================Restored========================================================
+Mohammed AlaA ElK0My 4516XX!!!
+```
 ## rail-fence cipher 
 Implemented efficiently by applying an index.
 
+```
+=================================================Welcome To Rail Fence==================================================
+
+Enter Key
+4
+4
+Enter message
+Mohammed Alaa El komy Is My SEcrET 1100992
+Mohammed Alaa El komy Is My SEcrET 1100992
+=======================================================Plain Text=======================================================
+Mohammed Alaa El komy Is My SEcrET 1100992
+==========================================================Key===========================================================
+0,6,12,18,24,30,36,1,5,7,11,13,17,19,23,25,29,31,35,37,41,2,4,8,10,14,16,20,22,26,28,32,34,38,40,3,9,15,21,27,33,39
+======================================================Cipher Text=======================================================
+Meao c1omda kmsMEr102hm lE yIySE 09aAl  T9
+========================================================Restored========================================================
+Mohammed Alaa El komy Is My SEcrET 1100992
+```
 ## Resources
 
 * [blog post part 1](http://doctrina.org/How-RSA-Works-With-Examples.html)
