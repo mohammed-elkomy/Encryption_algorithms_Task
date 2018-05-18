@@ -42,6 +42,7 @@ mohammed alaa el kOmy 012XX
 ## PlayFair
 
 Implemented as 2 indexed data structures for fast retrieval.
+### Example
 ```
 =======================================================Vocabulary=======================================================
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^`abcdefghijklmnopqrstuvwxyz{|}~_
@@ -65,7 +66,7 @@ Mohammed AlaA ElK0My 4516XX!!!
 ```
 ## rail-fence cipher 
 Implemented efficiently by applying an index.
-
+### Example
 ```
 =================================================Welcome To Rail Fence==================================================
 
