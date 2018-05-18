@@ -1,4 +1,4 @@
-# Encryption_algorithms_Task
+# Encryption Algorithms Task
 
 This is my personal assignment for cryptography task.
 
@@ -8,7 +8,7 @@ Contains modest biginteger implementation using vectors as blocks of numbers, I 
 as well as modular exponentiation as repeated multiplcation with logarithmic complexity (divide and conquer), divion as binary search :D also as (divide and conquer).. that was fun :D .
 
 I also implemented the extended GCD and modulo-inverse for establishing RSA channel.
-
+### Example
 ```
 ====================================================Internal Values=====================================================
 p: 874784103708338091190147416073637
