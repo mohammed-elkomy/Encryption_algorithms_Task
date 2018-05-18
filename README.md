@@ -75,7 +75,6 @@ Enter Key
 4
 Enter message
 Mohammed Alaa El komy Is My SEcrET 1100992
-Mohammed Alaa El komy Is My SEcrET 1100992
 =======================================================Plain Text=======================================================
 Mohammed Alaa El komy Is My SEcrET 1100992
 ==========================================================Key===========================================================
